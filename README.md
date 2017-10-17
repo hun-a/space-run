@@ -8,6 +8,10 @@ $ git clone git@github.com:seunghun-kim/space-run.git
 ```
 - Install the dependencies.
 ```
-$ npm Install
+$ cd space-run && npm Install
+```
+- Run the server
+```
+$ npm start
 ```
 - Connect at browser to `localhost:3000`
